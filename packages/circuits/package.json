@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@zk-email/circuits": "^3.2.2",
+    "@zk-email/helpers": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
